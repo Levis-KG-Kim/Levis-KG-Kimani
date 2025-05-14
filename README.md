@@ -46,3 +46,4 @@ One of my proudest projects involved building a predictive model that uses envir
 ---
 
 ![Nature AI](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+![Nature AI](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
