@@ -6,6 +6,9 @@
 
 🚀 **Mastering AI to turn data into real-world impact.**
 
+---
+
+** Experience**
 One of my proudest projects involved building a predictive model that uses environmental data and conservation tactics to forecast the future health of terrestrial biodiversity across Kenya’s protected areas. Combining AI, satellite imagery, and ecological data, this work fuels my passion for creating solutions that protect nature and empower communities.
 
 ---
