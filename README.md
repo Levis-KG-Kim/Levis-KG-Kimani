@@ -1,4 +1,4 @@
-# Hi, I’m Levis Gichuhi 👋
+# Hi, I’m Levis Gichuhi. 👋
 
 ### Data Scientist | AI Enthusiast | Biodiversity Advocate 🌿🤖
 
